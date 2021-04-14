@@ -77,6 +77,19 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-04-14T14:52:36.997027361Z"
+    description: A Helm chart for Kubernetes
+    digest: 81a9cce8841c5719ec28a4974d3753a325b030ee2fb254d6f6d25b5718e0f30a
+    maintainers:
+    - email: ruta.bakhda@gmail.com
+      name: bitnami
+    name: mychart
+    type: application
+    urls:
+    - https://github.com/rutabakhda/charts/releases/download/mychart-0.2.0/mychart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-04-14T13:43:08.304046641Z"
     description: A Helm chart for Kubernetes
     digest: 3d2b062c5d30da0d71c419adb6899b4cb76cb20d9dd4c544ae28fb83139a79d8
