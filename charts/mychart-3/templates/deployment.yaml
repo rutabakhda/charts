@@ -71,4 +71,3 @@ spec:
       tolerations:
         {{- toYaml . | nindent 8 }}
       {{- end }}
-of the solutions above, how can I integrate it in a docker container
