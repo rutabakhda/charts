@@ -84,5 +84,5 @@ affinity: {}
 
 devicename: device01
 userPassword: ""
-hostname: ""
-port: ""
+hostname: HOST
+port: 80
